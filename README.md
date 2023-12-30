@@ -41,7 +41,7 @@
   <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="2%">
   <a href="https://www.facebook.com/profile.php?id=100060440104968"><img src="https://github.com/ultralytics/assets/blob/main/social/logo-social-facebook.png" width="2%" alt="Ultralytics LinkedIn"></a>
   <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="2%">
-  <a href="mailto:duongvuhung142@gmail.com" alt="Contact me"><img src="https://github.com/vuhungtvt142/vuhungtvt142/blob/main/mail.jpg" width="5%" alt="Ultralytics LinkedIn"></a>
+  <a href="mailto:duongvuhung142@gmail.com" alt="Contact me"><img src="https://github.com/vuhungtvt142/vuhungtvt142/blob/main/mail.jpg" width="3%" alt="Ultralytics LinkedIn"></a>
   <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="10%">
 
 </div>
