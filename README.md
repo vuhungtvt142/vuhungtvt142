@@ -17,10 +17,10 @@ npx nitish
 ```
 
 ### I know more about- </br>
-![Python]([https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C](https://img.shields.io/python/required-version-toml)
+![Python]((https://img.shields.io/python/required-version-toml)
 ![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL)
-style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-Python%203-black?style=flat&logo=python&logoColor=white"> <br />
+
 ### Some of the technologies I have worked with-</br>
 <img src="https://img.shields.io/badge/-Machine%20Learning-102230?style=flat"> <img src="https://img.shields.io/badge/-R-black?style=flat&logo=r&logoColor=5b8cc4"> <br />
 ![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
