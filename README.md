@@ -19,7 +19,7 @@ npx nitish
 ### I know more about- </br>
 ![Python](https://img.shields.io/badge/-Python%203-black?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL)
-![SQL](https://img.shields.io/gitlab/last-commit/:project)
+![SQL](https://img.shields.io/badge/dynamic/json)
 
 
 ### Some of the technologies I have worked with-</br>
