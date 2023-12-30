@@ -24,16 +24,6 @@
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
-<p align="center">
-  <i>Let's connect and chat! Open to anything under the sun.</i>
-
-  <p align="center"> 
-    <a href="https://www.linkedin.com/in/vuhung142/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
-  <a href="https://www.facebook.com/profile.php?id=100085238223637" alt="Facebook"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/1024px-Facebook_Logo_(2019).png" height="30" width="30"></a>
-<a href="https://www.facebook.com/profile.php?id=100060440104968" alt="Facebook"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/1024px-Facebook_Logo_(2019).png" height="30" width="30"></a>
-     <a href="mailto:duongvuhung142@gmail.com" alt="Contact me"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="30" width="30"></a>
-  </p>
-
 ⭐️ From [Vu Hung](https://github.com/vuhungtvt142)
 
 <div align="center">
