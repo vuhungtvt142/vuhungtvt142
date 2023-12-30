@@ -1,6 +1,7 @@
 <h1 align="center"> Hello, I'm Duong Vu Hung 👋 </h1>
 <h3 align="center">🚀 Machien Vision Engineer 🚀</h3>
 </br></br></br>
+
 ### Here are some ideas to get you started:</br>
 - 🔭 I’m currently more into the **AI**
 - 🌱 I’m currently learning **Open Source Contribution.**
@@ -17,7 +18,6 @@
 ![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
 </br></br></br></br>
-
 
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
