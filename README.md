@@ -39,9 +39,9 @@
   <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="2%">
   <a href="https://www.facebook.com/profile.php?id=100085238223637"><img src="https://github.com/ultralytics/assets/blob/main/social/logo-social-facebook.png" width="2%" alt="Ultralytics LinkedIn"></a>
   <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="2%">
+  <a href="https://www.facebook.com/profile.php?id=100060440104968"><img src="https://github.com/ultralytics/assets/blob/main/social/logo-social-facebook.png" width="2%" alt="Ultralytics LinkedIn"></a>
+  <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="2%">
 
-          
-  <a href="https://ultralytics.com/discord"><img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-discord.png" width="2%" alt="Ultralytics Discord"></a>
 </div>
 
 </div>
