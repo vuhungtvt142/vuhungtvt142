@@ -3,7 +3,7 @@
 </br></br></br>
 
 ### Here are some ideas to get you started:</br>
-- 🔭 I’m currently more into the **AI**
+- 🔭 I’m currently more into the **AI and Machine Vision**
 - 🌱 I’m currently learning **Open Source Contribution.**
 - 👯 I’m looking to collaborate on: **Developing new and intriguing Machine Vision projects, with the community, for the community**
 - 🤔 I’m looking for help with **again Open Source. This is really fun.**
