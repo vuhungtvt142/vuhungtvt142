@@ -28,12 +28,12 @@
 <p align="left">
   <a href="https://github.com/vuhungtvt142"><img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-github.png" width="40" alt="Ultralytics GitHub"></a>
   <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="2%">
-  <a href="https://www.linkedin.com/in/vuhung142/"><img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-linkedin.png" width="2%" alt="Ultralytics LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/vuhung142/"><img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-linkedin.png" width="40" alt="Ultralytics LinkedIn"></a>
   <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="2%">
-  <a href="https://www.facebook.com/profile.php?id=100085238223637"><img src="https://github.com/ultralytics/assets/blob/main/social/logo-social-facebook.png" width="2%" alt="Ultralytics LinkedIn"></a>
+  <a href="https://www.facebook.com/profile.php?id=100085238223637"><img src="https://github.com/ultralytics/assets/blob/main/social/logo-social-facebook.png" width="40" alt="Ultralytics LinkedIn"></a>
   <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="2%">
-  <a href="https://www.facebook.com/profile.php?id=100060440104968"><img src="https://github.com/ultralytics/assets/blob/main/social/logo-social-facebook.png" width="2%" alt="Ultralytics LinkedIn"></a>
+  <a href="https://www.facebook.com/profile.php?id=100060440104968"><img src="https://github.com/ultralytics/assets/blob/main/social/logo-social-facebook.png" width="40" alt="Ultralytics LinkedIn"></a>
   <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="2%">
-  <a href="mailto:duongvuhung142@gmail.com" alt="Contact me"><img src="https://github.com/vuhungtvt142/vuhungtvt142/blob/main/mail.jpg" width="3%" alt="Ultralytics LinkedIn"></a>
+  <a href="mailto:duongvuhung142@gmail.com" alt="Contact me"><img src="https://github.com/vuhungtvt142/vuhungtvt142/blob/main/mail.jpg" width="40" alt="Ultralytics LinkedIn"></a>
   <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="10%">
 </p>
