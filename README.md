@@ -23,7 +23,6 @@
 </p>
 
 ## 🤝🏻 &nbsp;Connect with Me
-### ⭐️ From [Vu Hung](https://github.com/vuhungtvt142)
 <p align="center">
   <a href="https://github.com/vuhungtvt142"><img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-github.png" width="40" height="40"></a>
   <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="2%"  height="0.5%">
@@ -35,3 +34,5 @@
   <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="1%" height="0.5%">
   <a href="mailto:duongvuhung142@gmail.com" alt="Contact me"><img src="https://github.com/vuhungtvt142/vuhungtvt142/blob/main/mail.jpg" width="60" height="40" alt="Ultralytics LinkedIn">
 </p>
+
+<h3 align="right">⭐️ From [Vu Hung](https://github.com/vuhungtvt142)
