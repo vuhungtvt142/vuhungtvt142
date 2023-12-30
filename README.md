@@ -1,33 +1,27 @@
-<h1 align="center"> Hello, I'm Duong Vu Hung 👋 </h1>
-<h3 align="center">🚀 Machien Vision Engineer 🚀</h3>
-</br></br>
-
-### About me:</br>
-I am a Machine Vision Engineer. I graduated from Ho Chi Minh City University of Technology.  </br>
-I want to apply image processing and deep learning to solve problems in the production line. Helps businesses increase production capacity and revenue. 🚀
-
-### Here are some ideas to get you started:</br>
-- 🔭 I’m currently more into the **AI and Machine Vision**
-- 🌱 I’m currently learning **Open Source Contribution.**
-- 👯 I’m looking to collaborate on: **Developing new and intriguing Machine Vision projects, with the community, for the community**
-- 🤔 I’m looking for help with **again Open Source. This is really fun.**
-
-
-### I know more about- </br>
-![Python](https://img.shields.io/badge/-Python%203-black?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL)
-![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
-![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
-![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
-</br></br></br></br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=qubvel" alt="qubvel" /> </p>
 
 <p align="center">
-  <i>Let's connect and chat! Open to anything under the sun.</i>
-  <p align="center">
-    <a href="https://www.linkedin.com/in/vuhung142/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
-  <a href="https://www.facebook.com/profile.php?id=100085238223637" alt="Facebook"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/1024px-Facebook_Logo_(2019).png" height="30" width="30"></a>
-  <a href="https://www.facebook.com/profile.php?id=100060440104968" alt="Facebook"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/1024px-Facebook_Logo_(2019).png" height="30" width="30"></a>
-    <a href="mailto:duongvuhung142@gmail.com" alt="Contact me"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="30" width="30"></a>
-  </p>
-⭐️ From [Duong Vu Hung](https://github.com/vuhungtvt142)
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
+  <img src="https://github.com/valohai/ml-logos/blob/master/keras.svg" alt="keras" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
+</p>
 
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qubvel&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true" alt="qubvel" /></p>
+
+<!--
+**qubvel/qubvel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
