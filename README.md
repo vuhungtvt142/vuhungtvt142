@@ -1,4 +1,4 @@
-<p align="left">
+<p align="center">
 
 ## 👋 &nbsp;Hey there! I'm Dương Vũ Hưng
 </p>
