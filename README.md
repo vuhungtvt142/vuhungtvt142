@@ -16,6 +16,7 @@
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
 </p>
 
+### 🤝🏻 &nbsp;Connect with Me
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
 
