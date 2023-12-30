@@ -32,6 +32,6 @@
   <a href="https://www.facebook.com/profile.php?id=100085238223637"><img src="https://github.com/ultralytics/assets/blob/main/social/logo-social-facebook.png" width="40" height="40" alt="Ultralytics LinkedIn"></a>
   <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="1%" height="1%">
   <a href="https://www.facebook.com/profile.php?id=100060440104968"><img src="https://github.com/ultralytics/assets/blob/main/social/logo-social-facebook.png" width="40" height="40" alt="Ultralytics LinkedIn"></a>
-  <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="1%" height="1%">
-  <a href="mailto:duongvuhung142@gmail.com" alt="Contact me"><img src="https://github.com/vuhungtvt142/vuhungtvt142/blob/main/mail.jpg" width="60" height="60" alt="Ultralytics LinkedIn">
+  <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="1%" height="0.5%">
+  <a href="mailto:duongvuhung142@gmail.com" alt="Contact me"><img src="https://github.com/vuhungtvt142/vuhungtvt142/blob/main/mail.jpg" width="60" height="40" alt="Ultralytics LinkedIn">
 </p>
