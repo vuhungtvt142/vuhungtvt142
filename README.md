@@ -1,4 +1,3 @@
-<p align="center"> 👋 &nbsp;Hey there! I'm Dương Vũ Hưng </h3>
 <h3 align="center">👋 &nbsp;Hey there! I'm Dương Vũ Hưng
 <h3 align="center">🚀 Machine Vision Engineer 🚀</h3>
 
