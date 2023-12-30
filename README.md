@@ -7,6 +7,7 @@
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Image Processing, Computer Vision.\
 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1ooiYfwsxzlfYHsG5RZgyx1bnzSsdBR1v/view?usp=drive_link) for more details about me. I'm open to feedback and suggestions!
 
+### 🛠 &nbsp;Tech Stack
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
