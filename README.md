@@ -1,7 +1,7 @@
 <h1 align="center"> Hello, I'm Duong Vu Hung 👋 </h1>
 <h3 align="center">🚀 Machien Vision Engineer 🚀</h3>
 </br></br></br>
-I am a Machine Vision Engineer. I graduated from Ho Chi Minh City University of Technology.  
+I am a Machine Vision Engineer. I graduated from Ho Chi Minh City University of Technology.  \
 I want to apply image processing and deep learning to solve problems in the production line. Helps businesses increase production capacity and revenue. 🚀
 
 ### Here are some ideas to get you started:</br>
@@ -23,7 +23,6 @@ I want to apply image processing and deep learning to solve problems in the prod
 
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
-
   <p align="center">
     <a href="https://www.linkedin.com/in/vuhung142/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
   <a href="https://www.facebook.com/profile.php?id=100085238223637" alt="Facebook"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/1024px-Facebook_Logo_(2019).png" height="30" width="30"></a>
