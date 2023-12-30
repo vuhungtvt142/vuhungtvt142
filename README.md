@@ -19,7 +19,6 @@ npx nitish
 ### I know more about- </br>
 ![Python](https://img.shields.io/badge/-Python%203-black?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL)
-<img src="https://img.shields.io/badge/-Machine%20Learning-102230?style=flat"> <img src="https://img.shields.io/badge/-R-black?style=flat&logo=r&logoColor=5b8cc4"> <br />
 ![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
 ![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
@@ -33,9 +32,6 @@ npx nitish
     <a href="https://www.linkedin.com/in/vuhung142/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
   <a href="https://www.facebook.com/profile.php?id=100085238223637" alt="Facebook"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/1024px-Facebook_Logo_(2019).png" height="30" width="30"></a>
   <a href="https://www.facebook.com/profile.php?id=100060440104968" alt="Facebook"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/1024px-Facebook_Logo_(2019).png" height="30" width="30"></a>
-  <a href="https://www.dev.to/nitishawasthi" alt="dev.to"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/download.png" height="30" width="30"></a>
-  <a href="https://fosstodon.org/@nitishawasthi" alt="mastodon"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/1200px-Mastodon_Logotype_(Simple).svg.png" height="30" width="30"></a>
-  <a href="https://codechef.com/anitish_225" alt="Codechef"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" height="30" width="30"></a>
     <a href="mailto:duongvuhung142@gmail.com" alt="Contact me"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="30" width="30"></a>
   </p>
 
