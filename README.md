@@ -35,4 +35,4 @@
   <a href="mailto:duongvuhung142@gmail.com" alt="Contact me"><img src="https://github.com/vuhungtvt142/vuhungtvt142/blob/main/mail.jpg" width="60" height="40" alt="Ultralytics LinkedIn">
 </p>
 
-<h3 align="right">⭐️ From [rkasale28](https://github.com/rkasale28)
+⭐️ From [vuhung](https://github.com/vuhungtvt142/vuhungtvt142)
