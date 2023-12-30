@@ -1,7 +1,8 @@
 ### <h2> I'm Duong Vu Hung!
   </br>
 
-<img align="left"  src="https://media.giphy.com/media/QvkZcmITuZ3RejQOtQ/giphy.gif" alt="Duong Vu Hung" width="600" height="150"/> &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
+<h1 align="center"> Hello, I'm Duong Vu Hung 👋 </h1>
+<h3 align="center">🚀 Machien Vision Engineer 🚀</h3>
 </br></br></br>
 ### Here are some ideas to get you started:</br>
 - 🔭 I’m currently more into the **AI**
