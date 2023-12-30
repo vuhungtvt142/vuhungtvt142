@@ -1,4 +1,4 @@
-<h3 align="center">👋 &nbsp;Hey there! I'm Dương Vũ Hưng
+<h3 align="left">👋 &nbsp;Hey there! I'm Dương Vũ Hưng
 <h3 align="center">🚀 Machine Vision Engineer 🚀</h3>
 
 ## 👨🏻‍💻 &nbsp;About Me
