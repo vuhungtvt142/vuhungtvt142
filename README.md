@@ -10,7 +10,7 @@
 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1ooiYfwsxzlfYHsG5RZgyx1bnzSsdBR1v/view?usp=drive_link) for more details about me. I'm open to feedback and suggestions!
 
 ## 🛠 &nbsp;Tech Stack
-<p align="left">
+<p align="center">
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/></a>
   <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="2%">
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/></a>
@@ -23,8 +23,8 @@
 </p>
 
 ## 🤝🏻 &nbsp;Connect with Me
-    ⭐️ From [Vu Hung](https://github.com/vuhungtvt142)
-<p align="left">
+### ⭐️ From [Vu Hung](https://github.com/vuhungtvt142)
+<p align="center">
   <a href="https://github.com/vuhungtvt142"><img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-github.png" width="40" height="40"></a>
   <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="2%"  height="0.5%">
   <a href="https://www.linkedin.com/in/vuhung142/"><img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-linkedin.png" width="40" height="40" alt="Ultralytics LinkedIn"></a>
