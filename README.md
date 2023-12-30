@@ -17,8 +17,7 @@ npx nitish
 ```
 
 ### I know more about- </br>
-![Python](https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff)
-![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
+![Python](https://img.shields.io/badge/-Python%203-black?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL)
 
 ### Some of the technologies I have worked with-</br>
