@@ -11,28 +11,28 @@
 
 ## 🛠 &nbsp;Tech Stack
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/></a>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="20" height="20"/></a>
   <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="2%">
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/></a>
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="20" height="20"/></a>
   <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="2%">
-  <img src="https://github.com/valohai/ml-logos/blob/master/keras.svg" alt="keras" width="40" height="40"/></a>
+  <img src="https://github.com/valohai/ml-logos/blob/master/keras.svg" alt="keras" width="20" height="20"/></a>
   <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="2%">
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="20" height="20"/></a>
   <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="2%"> 
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="20" height="20"/> 
 </p>
 
 ## 🤝🏻 &nbsp;Connect with Me
 <p align="center">
-  <a href="https://github.com/vuhungtvt142"><img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-github.png" width="40" height="40"></a>
+  <a href="https://github.com/vuhungtvt142"><img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-github.png" width="20" height="20"></a>
   <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="2%"  height="0.5%">
-  <a href="https://www.linkedin.com/in/vuhung142/"><img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-linkedin.png" width="40" height="40" alt="Ultralytics LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/vuhung142/"><img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-linkedin.png" width="20" height="20" alt="Ultralytics LinkedIn"></a>
   <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="2%" height="0.5%">
-  <a href="https://www.facebook.com/profile.php?id=100085238223637"><img src="https://github.com/ultralytics/assets/blob/main/social/logo-social-facebook.png" width="40" height="40" alt="Ultralytics LinkedIn"></a>
+  <a href="https://www.facebook.com/profile.php?id=100085238223637"><img src="https://github.com/ultralytics/assets/blob/main/social/logo-social-facebook.png" width="20" height="20" alt="Ultralytics LinkedIn"></a>
   <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="1%" height="0.5%">
-  <a href="https://www.facebook.com/profile.php?id=100060440104968"><img src="https://github.com/ultralytics/assets/blob/main/social/logo-social-facebook.png" width="40" height="40" alt="Ultralytics LinkedIn"></a>
+  <a href="https://www.facebook.com/profile.php?id=100060440104968"><img src="https://github.com/ultralytics/assets/blob/main/social/logo-social-facebook.png" width="20" height="20" alt="Ultralytics LinkedIn"></a>
   <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="1%" height="0.5%">
-  <a href="mailto:duongvuhung142@gmail.com" alt="Contact me"><img src="https://github.com/vuhungtvt142/vuhungtvt142/blob/main/mail.jpg" width="60" height="40" alt="Ultralytics LinkedIn">
+  <a href="mailto:duongvuhung142@gmail.com" alt="Contact me"><img src="https://github.com/vuhungtvt142/vuhungtvt142/blob/main/mail.jpg" width="40" height="30" alt="Ultralytics LinkedIn">
 </p>
 
 ⭐️ From [vuhung](https://github.com/vuhungtvt142/vuhungtvt142)
