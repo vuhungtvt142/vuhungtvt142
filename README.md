@@ -23,10 +23,8 @@
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
-⭐️ From [Vu Hung](https://github.com/vuhungtvt142)
 <p align="left">
-  <href="https://github.com/vuhungtvt142"><img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-github.png" width="40" alt="Ultralytics GitHub"></a>
+  <a href="https://github.com/vuhungtvt142"><img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-github.png" width="40" alt="Ultralytics GitHub"></a>
   <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="2%">
   <a href="https://www.linkedin.com/in/vuhung142/"><img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-linkedin.png" width="40" alt="Ultralytics LinkedIn"></a>
   <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="2%">
