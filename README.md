@@ -1,7 +1,7 @@
 <h3 align="center">👋 &nbsp;Hey there! I'm Dương Vũ Hưng
 <h3 align="center">🚀 Machine Vision Engineer 🚀</h3>
 
-### 👨🏻‍💻 &nbsp;About Me
+## 👨🏻‍💻 &nbsp;About Me
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🚀 &nbsp;I want to research, find solutions and apply image processing and computer vision to production lines. Contribute to increasing productivity and solving problems that 
           businesses encounter.
@@ -9,7 +9,7 @@
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Image Processing, Computer Vision.\
 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1ooiYfwsxzlfYHsG5RZgyx1bnzSsdBR1v/view?usp=drive_link) for more details about me. I'm open to feedback and suggestions!
 
-### 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stack
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/></a>
   <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="2%">
@@ -22,7 +22,7 @@
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+## 🤝🏻 &nbsp;Connect with Me
     ⭐️ From [Vu Hung](https://github.com/vuhungtvt142)
 <p align="left">
   <a href="https://github.com/vuhungtvt142"><img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-github.png" width="40" height="40"></a>
