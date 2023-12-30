@@ -37,8 +37,6 @@
   <a href="mailto:duongvuhung142@gmail.com" alt="Contact me"><img src="https://github.com/vuhungtvt142/vuhungtvt142/blob/main/mail.jpg" width="3%" alt="Ultralytics LinkedIn"></a>
   <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="10%">
 </p>
-<br>
-
 
 <!--
 **qubvel/qubvel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
